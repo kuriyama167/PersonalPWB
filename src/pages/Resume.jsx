@@ -26,7 +26,7 @@ export default function Resume() {
                     <span className="text-center font-bold text-4 sm:text-3 md:text-2 lg:text-1">Clara Velasquez</span>
                     <span className="text-center font-bold text-6 sm:text-5 md:text-4 lg:text-3">Web Developer</span>
                     <address className="italic flex flex-row flex-wrap gap-8 justify-center items-center">
-                        <span>Rochester, NY</span>
+                        <span>Managua, NI</span>
                     </address>
                     <Socials />
                 </div>

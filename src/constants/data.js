@@ -153,26 +153,26 @@ export const testimonials = [
 
 export const socialMedias = [
     {
-        href: 'mailto:edpark@edpark.space',
-        ariaLabel: 'Compose an email to Ed Park',
-        title: 'Write an Email to Ed Park',
+        href: 'mailto:velasquezclara167@gmail.com',
+        ariaLabel: 'Compose an email to Clara Velasquez',
+        title: 'Write an Email to Clara Velasquez',
         Icon: Icons.EmailIcon,
     },
     {
-        href: 'https://www.linkedin.com/in/edpark1',
-        ariaLabel: 'Goes to Ed Park&apos;s LinkedIn profile',
+        href: 'https://www.linkedin.com/in/cvelasquezr/',
+        ariaLabel: 'Goes to Clara Velasquez LinkedIn profile',
         title: 'LinkedIn Profile',
         Icon: Icons.LinkedInIcon,
     },
     {
-        href: 'https://github.com/edwardpark1',
-        ariaLabel: 'Goes to Ed Park&apos;s GitHub profile',
+        href: 'https://github.com/kuriyama167',
+        ariaLabel: 'Goes to Clara GitHub profile',
         title: 'GitHub Profile',
         Icon: Icons.GitHubIcon,
     },
     {
-        href: 'https://twitter.com/edward_park1',
-        ariaLabel: 'Goes to Ed Park&apos;s Twitter profile',
+        href: 'https://twitter.com/kuriyamaC167',
+        ariaLabel: 'Goes to Clara Twitter profile',
         title: 'Twitter Profile',
         Icon: Icons.TwitterIcon,
     },
