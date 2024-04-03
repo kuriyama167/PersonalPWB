@@ -2,11 +2,9 @@
 In your command line:
 ```bash
 # Clone this repository
-$ git clone https://github.com/edwardpark1/EdParkPortfolioV2.git
 
 # Go into the repository
-$ cd EdParkPortfolioV2
-
+$ cd 
 # Install dependencies
 $ npm install
 
